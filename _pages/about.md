@@ -22,8 +22,7 @@ Ph.D.; Associate Researcher and PhD supervisor at the Institute of Computing Tec
 My research interest includes accleration of nerual networks and computer vision. I have published more than 70 papers at the top international AI/CV journals and conferences with total <a href='https://scholar.google.com/citations?user=daBvGcMAAAAJ'>google scholar citations <strong><span id='total_cit'>4000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=daBvGcMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 One paper has been accepted by NeurIPS 2025. 
 
 # 📝 Publications 
 
@@ -133,14 +132,15 @@ My research interest includes accleration of nerual networks and computer vision
 [18] Chuanguang Yang, Xinqiang Yu, Zhulin An, Yongjun Xu. Categories of Response-Based, Feature-Based, and Relation-Based Knowledge Distillation. Chapter in Springer Book《Advancements in Knowledge Distillation: Towards New Horizons of Intelligent Systems》, 2023.
 
 
+
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2025.9* One paper has been accepted by NeurIPS 2025. 
+- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
