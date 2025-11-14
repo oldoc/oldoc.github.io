@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "AN Zhulin, Ph.D"
-description              : "Associate Researcher, PhD supervisor"
+title                    : "AN Zhulin"
+description              : "Institute of Computing Technology, Chinese Academy of Sciences"
 repository               : "oldoc/oldoc.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "AN Zhulin"
+  name             : "AN Zhulin, Ph.D"
   avatar           : "images/anzhulin.jpg"
-  bio              : "Institute of Computing Technology, Chinese Academy of Sciences"
+  bio              : "Associate Researcher, PhD supervisor"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
