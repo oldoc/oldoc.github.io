@@ -28,6 +28,7 @@ My research interest includes accleration of nerual networks and computer vision
 # 📝 Publications 
 
 [Conference Papers]
+
 [1] Weilun Feng, Haotong Qin, Chuanguang Yang*, Xiangqi Li, Han Yang, Yuqi Li, Zhulin An*, Libo Huang, Michele Magno, Yongjun Xu. S^2Q-VDiT: Accurate Quantized Video Diffusion Transformer with Salient Data and Sparse Token Distillation. The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025. (CCF-A)
 [2] Yanming Chen, Zixin Ma, Chuanguang Yang*, Zhulin An*, Yiwen Zhang. Accelerating Diffusion Models via Parallel Denoising. ACM Multimedia 2025 (ACM MM), 2025. (CCF-A)
 [3] Yuqi Li, Chuanguang Yang, Hansheng Zeng, Zeyu Dong, Zhulin An, Yongjun Xu, Yingli Tian, Hao Wu. Frequency-Aligned Knowledge Distillation for Lightweight Spatiotemporal Forecasting. International Conference on Computer Vision (ICCV), 2025. (CCF-A)
@@ -59,6 +60,7 @@ My research interest includes accleration of nerual networks and computer vision
 [29] Linhang Cai, Zhulin An*, Yongjun Xu. GHFP: Gradually Hard Filter Pruning. International Joint Conference on Neural Networks (IJCNN), 2021. (CCF-C)
 [30] Chuanguang Yang, Zhulin An*, Hui Zhu, Xiaolong Hu, Kun Zhang, Kaiqiang Xu, Chao Li, Yongjun Xu. Gated Convolutional Networks with Hybrid Connectivity for Image Classification. 34th AAAI Conference on Artificial Intelligence (AAAI), 2020. (CCF-A)
 [31] Xiaolong Hu, Zhulin An*, Chuanguang Yang, Hui Zhu, Kaiqiang Xu and Yongjun Xu. DRNet: Dissect and Reconstruct the Convolutional Neural Network via Interpretable Manners. 24th European Conference on Artificial Intelligence (ECAI), 2020. (CCF-B)
+
 
 [Journal Papers]
 [1] Zhulin An, Xinqiang Yu, Chu Wang*, Yinlong Zhang, Chunhe Song*. Embodied intelligence: Recent advances and future perspectives. The Innovation Informatics 1:100008, 2025.
