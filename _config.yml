@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "AN Zhulin"
-description              : "Associate Researcher and PhD supervisor at the Institute of Computing Technology, Chinese Academy of Sciences. "
+title                    : "AN Zhulin, Ph.D"
+description              : "Associate Researcher and PhD supervisor"
 repository               : "oldoc/oldoc.github.io"
 google_scholar_stats_use_cdn : true
 
