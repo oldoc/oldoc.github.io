@@ -38,7 +38,7 @@ Serves as principal investigator for multiple national and ministerial projects,
 
 # 📝 Publications 
 
-[Conference Papers]
+## [Conference Papers]
 
 [1] Weilun Feng, Haotong Qin, Chuanguang Yang*, Xiangqi Li, Han Yang, Yuqi Li, **Zhulin An\***, Libo Huang, Michele Magno, Yongjun Xu. S^2^Q-VDiT: Accurate Quantized Video Diffusion Transformer with Salient Data and Sparse Token Distillation. The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025. (CCF-A)
 
@@ -108,7 +108,7 @@ Serves as principal investigator for multiple national and ministerial projects,
 
 
 
-[Journal Papers]
+## [Journal Papers]
 
 [1] **Zhulin An**, Xinqiang Yu, Chu Wang*, Yinlong Zhang, Chunhe Song*. Embodied intelligence: Recent advances and future perspectives. The Innovation Informatics 1:100008, 2025.
 
