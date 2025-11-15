@@ -58,53 +58,53 @@ Serves as principal investigator for multiple national and ministerial projects,
 
 [9] Han Yang, Chuanguang Yang*, Qiuli Wang, **Zhulin An\***, Weilun Feng, Libo Huang, Yongjun Xu. Multi-party Collaborative Attention Control for Image Customization. The Thirty-Fifth IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025. (CCF-A)
 
-[8] Chuanguang Yang, Xinqiang Yu, Han Yang, **Zhulin An\***, Chengqing Yu, Libo Huang, Yongjun Xu. Multi-Teacher Knowledge Distillation with Reinforcement Learning for Visual Recognition. The 39th AAAI Conference on Artificial Intelligence (AAAI), 2025. (CCF-A)
+[10] Chuanguang Yang, Xinqiang Yu, Han Yang, **Zhulin An\***, Chengqing Yu, Libo Huang, Yongjun Xu. Multi-Teacher Knowledge Distillation with Reinforcement Learning for Visual Recognition. The 39th AAAI Conference on Artificial Intelligence (AAAI), 2025. (CCF-A)
 
-[9] Weilun Feng, Haotong Qin, Chuanguang Yang*, **Zhulin An\***, Libo Huang, Boyu Diao, Fei Wang, Renshuai Tao, Yongjun Xu, Michele Magno. MPQ-DM: Mixed Precision Quantization for Extremely Low Bit Diffusion Models. The 39th AAAI Conference on Artificial Intelligence (AAAI), 2025. (CCF-A)
+[11] Weilun Feng, Haotong Qin, Chuanguang Yang*, **Zhulin An\***, Libo Huang, Boyu Diao, Fei Wang, Renshuai Tao, Yongjun Xu, Michele Magno. MPQ-DM: Mixed Precision Quantization for Extremely Low Bit Diffusion Models. The 39th AAAI Conference on Artificial Intelligence (AAAI), 2025. (CCF-A)
 
-[10] Han Yang, Chuanguang Yang*, **Zhulin An\***, Libo Huang, Yongjun Xu. HSRDiff: A Hierarchical Self-Regulation Diffusion Model for Stochastic Semantic Segmentation. The 39th AAAI Conference on Artificial Intelligence (AAAI), 2025. (CCF-A)
+[12] Han Yang, Chuanguang Yang*, **Zhulin An\***, Libo Huang, Yongjun Xu. HSRDiff: A Hierarchical Self-Regulation Diffusion Model for Stochastic Semantic Segmentation. The 39th AAAI Conference on Artificial Intelligence (AAAI), 2025. (CCF-A)
 
-[11] Haonan Mai, Libo Huang*, **Zhulin An\***, Jiarui Zhao, Chuanguang Yang, Erhu Zhao, Yongjun Xu. OLN++: Improved Object Localization Network for Open-world Object Detection. 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2025. (CCF-B)
+[13] Haonan Mai, Libo Huang*, **Zhulin An\***, Jiarui Zhao, Chuanguang Yang, Erhu Zhao, Yongjun Xu. OLN++: Improved Object Localization Network for Open-world Object Detection. 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2025. (CCF-B)
 
-[12] RuiQi Liu, Boyu Diao*, Libo Huang, Zijia An, **Zhulin An**, Yongjun Xu. Continual Learning in the Frequency Domain. The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS), 2024. (CCF-A)
+[14] RuiQi Liu, Boyu Diao*, Libo Huang, Zijia An, **Zhulin An**, Yongjun Xu. Continual Learning in the Frequency Domain. The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS), 2024. (CCF-A)
 
-[13] Weilun Feng, Chuanguang Yang*, **Zhulin An\***, Libo Huang, Boyu Diao, Fei Wang, Yongjun Xu. Relational Diffusion Distillation For Efficient Image Generation. ACM Multimedia 2024 (ACM MM), 2024.(CCF-A)
+[15] Weilun Feng, Chuanguang Yang*, **Zhulin An\***, Libo Huang, Boyu Diao, Fei Wang, Yongjun Xu. Relational Diffusion Distillation For Efficient Image Generation. ACM Multimedia 2024 (ACM MM), 2024.(CCF-A)
 
-[14] Yuting Zhang, Zhao Zhang, Yiqing Wu, Ying Sun, Fuzhen Zhuang*, Wenhui Yu, Lantao Hu, Han Li, Kun Gai, **Zhulin An\***, Yongjun Xu. Tag Tree-Guided Multi-grained Alignment for Multi-Domain Short Video Recommendation. ACM Multimedia 2024 (ACM MM), 2024.(CCF-A)
+[16] Yuting Zhang, Zhao Zhang, Yiqing Wu, Ying Sun, Fuzhen Zhuang*, Wenhui Yu, Lantao Hu, Han Li, Kun Gai, **Zhulin An\***, Yongjun Xu. Tag Tree-Guided Multi-grained Alignment for Multi-Domain Short Video Recommendation. ACM Multimedia 2024 (ACM MM), 2024.(CCF-A)
 
-[15] Yuting Zhang, Yiqing Wu, ruidong han, Ying Sun, Yongchun Zhu, Xiang Li, Wei Lin, Fuzhen Zhuang*, **Zhulin An\***, Yongjun Xu. Unified Dual-Intent Translation for Joint Modeling of Search and Recommendation. 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024. (CCF-A, ADS Track)
+[17] Yuting Zhang, Yiqing Wu, ruidong han, Ying Sun, Yongchun Zhu, Xiang Li, Wei Lin, Fuzhen Zhuang*, **Zhulin An\***, Yongjun Xu. Unified Dual-Intent Translation for Joint Modeling of Search and Recommendation. 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024. (CCF-A, ADS Track)
 
-[16] Chuanguang Yang, **Zhulin An\***, Libo Huang, Junyu Bi, XinQiang Yu, Han Yang, Boyu Diao, Yongjun Xu*. CLIP-KD: A Comprehensive Study of Distilling CLIP Models. The Thirty-Fourth IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024. (CCF-A)
+[18] Chuanguang Yang, **Zhulin An\***, Libo Huang, Junyu Bi, XinQiang Yu, Han Yang, Boyu Diao, Yongjun Xu*. CLIP-KD: A Comprehensive Study of Distilling CLIP Models. The Thirty-Fourth IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024. (CCF-A)
 
-[17] Libo Huang, Yan Zeng, Chuanguang Yang, **Zhulin An\***, Boyu Diao, Yongjun Xu. eTag: Class-Incremental Learning via Embedding Distillation and Task-Oriented Generation. 36th AAAI Conference on Artificial Intelligence (AAAI), 2024. (CCF-A)
+[19] Libo Huang, Yan Zeng, Chuanguang Yang, **Zhulin An\***, Boyu Diao, Yongjun Xu. eTag: Class-Incremental Learning via Embedding Distillation and Task-Oriented Generation. 36th AAAI Conference on Artificial Intelligence (AAAI), 2024. (CCF-A)
 
-[18] Libo Huang, **Zhulin An\***, Yan Zeng, Xiang Zhi, Yongjun Xu. KFC: Knowledge Reconstruction and Feedback Consolidation Enable Efficient and Effective Continual Generative Learning. The Twelfth International Conference on Learning Representations (ICLR), 2024. (Tiny paper, Invite to present (notable))  
+[20] Libo Huang, **Zhulin An\***, Yan Zeng, Xiang Zhi, Yongjun Xu. KFC: Knowledge Reconstruction and Feedback Consolidation Enable Efficient and Effective Continual Generative Learning. The Twelfth International Conference on Learning Representations (ICLR), 2024. (Tiny paper, Invite to present (notable))  
 
-[19] Yuting Zhang, Yiqing Wu, Ran Le, Yongchun Zhu, Fuzhen Zhuang*, Ruidong Han, Xiang Li, Wei Lin, **Zhulin An\***, Yongjun Xu. Modeling Dual Period-Varying Preferences for Takeaway Recommendation. 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023. (CCF-A, ADS Track)
+[21] Yuting Zhang, Yiqing Wu, Ran Le, Yongchun Zhu, Fuzhen Zhuang*, Ruidong Han, Xiang Li, Wei Lin, **Zhulin An\***, Yongjun Xu. Modeling Dual Period-Varying Preferences for Takeaway Recommendation. 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023. (CCF-A, ADS Track)
 
-[20] Zhao Zhang, Zhanpeng Guan, Fuwei Zhang, Fuzhen Zhuang*, **Zhulin An\***, Fei Wang, Yongjun Xu. Weighted Knowledge Graph Embedding. 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2023. (CCF-A) 
+[22] Zhao Zhang, Zhanpeng Guan, Fuwei Zhang, Fuzhen Zhuang*, **Zhulin An\***, Fei Wang, Yongjun Xu. Weighted Knowledge Graph Embedding. 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2023. (CCF-A) 
 
-[21] Chuanguang Yang, **Zhulin An\***, Helong Zhou, Linhang Cai, Xiang Zhi, Jiwen Wu, Yongjun Xu, Qian Zhang. MixSKD: Self-Knowledge Distillation from Mixup for Image Recognition. European Conference on Computer Vision (ECCV), 2022. (CCF-B) 
+[23] Chuanguang Yang, **Zhulin An\***, Helong Zhou, Linhang Cai, Xiang Zhi, Jiwen Wu, Yongjun Xu, Qian Zhang. MixSKD: Self-Knowledge Distillation from Mixup for Image Recognition. European Conference on Computer Vision (ECCV), 2022. (CCF-B) 
 
-[22] Chuanguang Yang, Helong Zhou, **Zhulin An\***, Xue Jiang, Yongjun Xu, Qian Zhang. Cross-Image Relational Knowledge Distillation for Semantic Segmentation. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022. (CCF-A)
+[24] Chuanguang Yang, Helong Zhou, **Zhulin An\***, Xue Jiang, Yongjun Xu, Qian Zhang. Cross-Image Relational Knowledge Distillation for Semantic Segmentation. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022. (CCF-A)
 
-[23] Chuanguang Yang, **Zhulin An\***, Yongjun Xu. Localizing Semantic Patches for Accelerating Image Classification. IEEE International Conference on Multimedia and Expo (ICME), 2022. (CCF-B)
+[25] Chuanguang Yang, **Zhulin An\***, Yongjun Xu. Localizing Semantic Patches for Accelerating Image Classification. IEEE International Conference on Multimedia and Expo (ICME), 2022. (CCF-B)
 
-[24] Yanming Chen, Mingrui Shuai, Shubin Lou, **Zhulin An\***, Yiwen Zhang. FPAR: Filter Pruning via Attention and Rank Enhancement. IEEE International Conference on Multimedia and Expo (ICME), 2022. (CCF-B)
+[26] Yanming Chen, Mingrui Shuai, Shubin Lou, **Zhulin An\***, Yiwen Zhang. FPAR: Filter Pruning via Attention and Rank Enhancement. IEEE International Conference on Multimedia and Expo (ICME), 2022. (CCF-B)
 
-[25] Chuanguang Yang, **Zhulin An\***, Linhang Cai, Yongjun Xu. Mutual Contrastive Learning for Visual Representation Learning. 36th AAAI Conference on Artificial Intelligence (AAAI), 2022. (CCF-A)
+[27] Chuanguang Yang, **Zhulin An\***, Linhang Cai, Yongjun Xu. Mutual Contrastive Learning for Visual Representation Learning. 36th AAAI Conference on Artificial Intelligence (AAAI), 2022. (CCF-A)
 
-[26] Linhang Cai, **Zhulin An\***, Chuanguang Yang, Yangchun Yan, Yongjun Xu. Prior Gradient Mask Guided Pruning-aware Fine-tuning. 36th AAAI Conference on Artificial Intelligence (AAAI), 2022. (CCF-A)
+[28] Linhang Cai, **Zhulin An\***, Chuanguang Yang, Yangchun Yan, Yongjun Xu. Prior Gradient Mask Guided Pruning-aware Fine-tuning. 36th AAAI Conference on Artificial Intelligence (AAAI), 2022. (CCF-A)
 
-[27] Chuanguang Yang, **Zhulin An\***, Linhang Cai, Yongjun Xu. Hierarchical Self-supervised Augmented Knowledge Distillation. 30th International Joint Conference on Artificial Intelligence (IJCAI), 2021. (CCF-A)
+[29] Chuanguang Yang, **Zhulin An\***, Linhang Cai, Yongjun Xu. Hierarchical Self-supervised Augmented Knowledge Distillation. 30th International Joint Conference on Artificial Intelligence (IJCAI), 2021. (CCF-A)
 
-[28] Chuanguang Yang, **Zhulin An\***, Yongjun Xu. Multi-view Contrastive Learning for Online Knowledge Distillation. 46th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021. (CCF-B)
+[30] Chuanguang Yang, **Zhulin An\***, Yongjun Xu. Multi-view Contrastive Learning for Online Knowledge Distillation. 46th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021. (CCF-B)
 
-[29] Linhang Cai, **Zhulin An\***, Yongjun Xu. GHFP: Gradually Hard Filter Pruning. International Joint Conference on Neural Networks (IJCNN), 2021. (CCF-C)
+[31] Linhang Cai, **Zhulin An\***, Yongjun Xu. GHFP: Gradually Hard Filter Pruning. International Joint Conference on Neural Networks (IJCNN), 2021. (CCF-C)
 
-[30] Chuanguang Yang, **Zhulin An\***, Hui Zhu, Xiaolong Hu, Kun Zhang, Kaiqiang Xu, Chao Li, Yongjun Xu. Gated Convolutional Networks with Hybrid Connectivity for Image Classification. 34th AAAI Conference on Artificial Intelligence (AAAI), 2020. (CCF-A)
+[32] Chuanguang Yang, **Zhulin An\***, Hui Zhu, Xiaolong Hu, Kun Zhang, Kaiqiang Xu, Chao Li, Yongjun Xu. Gated Convolutional Networks with Hybrid Connectivity for Image Classification. 34th AAAI Conference on Artificial Intelligence (AAAI), 2020. (CCF-A)
 
-[31] Xiaolong Hu, **Zhulin An\***, Chuanguang Yang, Hui Zhu, Kaiqiang Xu and Yongjun Xu. DRNet: Dissect and Reconstruct the Convolutional Neural Network via Interpretable Manners. 24th European Conference on Artificial Intelligence (ECAI), 2020. (CCF-B)
+[33] Xiaolong Hu, **Zhulin An\***, Chuanguang Yang, Hui Zhu, Kaiqiang Xu and Yongjun Xu. DRNet: Dissect and Reconstruct the Convolutional Neural Network via Interpretable Manners. 24th European Conference on Artificial Intelligence (ECAI), 2020. (CCF-B)
 
 
 
