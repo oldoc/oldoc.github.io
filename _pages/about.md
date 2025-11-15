@@ -22,13 +22,13 @@ My research interest includes accleration of nerual networks and computer vision
 Serves as principal investigator for multiple national and ministerial projects, including the National Natural Science Foundation of China (General Program and Young Scientists Fund) and the CAS Science and Technology Innovation Fund, and received the First Prize for Technical Invention of the Chinese Institute of Command and Control in 2025 (third contributor).
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉 Three papers were accepted by NeurIPS 2025. 
-- *2025.07*: &nbsp;🎉🎉 One paper was accepted by ACM MM 2025. 
-- *2025.07*: &nbsp;🎉🎉 One paper was accepted by Scientific Data. 
-- *2025.06*: &nbsp;🎉🎉 One paper was accepted by ICCV 2025. 
-- *2025.06*: &nbsp;🎉🎉 Received the Outstanding Reviewer Award for CVPR 2025. 
-- *2025.02*: &nbsp;🎉🎉 One paper was accepted by CVPR 2025. 
-- *2025.01*: &nbsp;🎉🎉 Three papers were accepted by AAAI 2025 (Two oral). 
+- *2025.09*: &nbsp;🎉 Three papers were accepted by NeurIPS 2025. 
+- *2025.07*: &nbsp;🎉 One paper was accepted by ACM MM 2025. 
+- *2025.07*: &nbsp;🎉 One paper was accepted by Scientific Data. 
+- *2025.06*: &nbsp;🎉 One paper was accepted by ICCV 2025. 
+- *2025.06*: &nbsp;🎉 Received the Outstanding Reviewer Award for CVPR 2025. 
+- *2025.02*: &nbsp;🎉 One paper was accepted by CVPR 2025. 
+- *2025.01*: &nbsp;🎉 Three papers were accepted by AAAI 2025 (Two oral). 
 
 # 👨‍🏫 Academic Service
 - Senior Member of the China Computer Federation (CCF)
