@@ -17,19 +17,30 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Ph.D.; Associate Researcher and PhD supervisor at the Institute of Computing Technology, Chinese Academy of Sciences. Senior Member of the China Computer Federation (CCF); Executive Committee Member of the CCF Technical Committee on Distributed Computing and Systems; Member of the Technical Committee on Embodied Intelligence of the Chinese Association for Artificial Intelligence; and Member of the Technical Committee on Foundation Models and Decision Intelligence of the Chinese Institute of Command and Control. Co-supervised students have received the CAS President Award - Special Prize and a nomination for the CCF Excellent Doctoral Dissertation Incentive Program. Serves as principal investigator for multiple national and ministerial projects, including the National Natural Science Foundation of China (General Program and Young Scientists Fund) and the CAS Science and Technology Innovation Fund, and received the First Prize for Technical Invention of the Chinese Institute of Command and Control in 2025 (third contributor).
-
 My research interest includes accleration of nerual networks and computer vision. I have published more than 70 papers at the top international AI/CV journals and conferences with total <a href='https://scholar.google.com/citations?user=daBvGcMAAAAJ'>google scholar citations <strong><span id='total_cit'>4000+</span></strong></a> [![](https://img.shields.io/badge/GoogleScholar-Zhulin_An-grey?style=flat-square&labelColor=4285F4&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=daBvGcMAAAAJ) &ensp;
 
+Serves as principal investigator for multiple national and ministerial projects, including the National Natural Science Foundation of China (General Program and Young Scientists Fund) and the CAS Science and Technology Innovation Fund, and received the First Prize for Technical Invention of the Chinese Institute of Command and Control in 2025 (third contributor).
+
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 One paper has been accepted by NeurIPS 2025. 
+- *2025.09*: &nbsp;🎉🎉 Three papers were accepted by NeurIPS 2025. 
+- *2025.07*: &nbsp;🎉🎉 One paper was accepted by ACM MM 2025. 
+- *2025.07*: &nbsp;🎉🎉 One paper was accepted by Scientific Data. 
+- *2025.06*: &nbsp;🎉🎉 One paper was accepted by ICCV 2025. 
+- *2025.06*: &nbsp;🎉🎉 Received the Outstanding Reviewer Award for CVPR 2025. 
+- *2025.02*: &nbsp;🎉🎉 One paper was accepted by CVPR 2025. 
+- *2025.01*: &nbsp;🎉🎉 Three papers were accepted by AAAI 2025 (Two oral). 
+
+# 👨‍🏫 Academic Service
+- Senior Member of the China Computer Federation (CCF)
+- Executive Committee Member of the CCF Technical Committee on Distributed Computing and Systems
+- Committee of the Technical Committee on Embodied Intelligence of the Chinese Association for Artificial Intelligence
+- Committee of the Technical Committee on Foundation Models and Decision Intelligence of the Chinese Institute of Command and Control
 
 # 📝 Publications 
 
 [Conference Papers]
 
-
-[1] Weilun Feng, Haotong Qin, Chuanguang Yang*, Xiangqi Li, Han Yang, Yuqi Li, **Zhulin An***, Libo Huang, Michele Magno, Yongjun Xu. S^2Q-VDiT: Accurate Quantized Video Diffusion Transformer with Salient Data and Sparse Token Distillation. The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025. (CCF-A)
+[1] Weilun Feng, Haotong Qin, Chuanguang Yang*, Xiangqi Li, Han Yang, Yuqi Li, **Zhulin An\***, Libo Huang, Michele Magno, Yongjun Xu. S^2Q-VDiT: Accurate Quantized Video Diffusion Transformer with Salient Data and Sparse Token Distillation. The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025. (CCF-A)
 
 [2] Yanming Chen, Zixin Ma, Chuanguang Yang*, Zhulin An*, Yiwen Zhang. Accelerating Diffusion Models via Parallel Denoising. ACM Multimedia 2025 (ACM MM), 2025. (CCF-A)
 
