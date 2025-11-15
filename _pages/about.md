@@ -29,7 +29,7 @@ My research interest includes accleration of nerual networks and computer vision
 [Conference Papers]
 
 
-[1] Weilun Feng, Haotong Qin, Chuanguang Yang*, Xiangqi Li, Han Yang, Yuqi Li, Zhulin An*, Libo Huang, Michele Magno, Yongjun Xu. S^2Q-VDiT: Accurate Quantized Video Diffusion Transformer with Salient Data and Sparse Token Distillation. The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025. (CCF-A)
+[1] Weilun Feng, Haotong Qin, Chuanguang Yang*, Xiangqi Li, Han Yang, Yuqi Li, **Zhulin An***, Libo Huang, Michele Magno, Yongjun Xu. S^2Q-VDiT: Accurate Quantized Video Diffusion Transformer with Salient Data and Sparse Token Distillation. The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025. (CCF-A)
 
 [2] Yanming Chen, Zixin Ma, Chuanguang Yang*, Zhulin An*, Yiwen Zhang. Accelerating Diffusion Models via Parallel Denoising. ACM Multimedia 2025 (ACM MM), 2025. (CCF-A)
 
