@@ -17,21 +17,21 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My research interest includes accleration of nerual networks and computer vision. I have published more than 70 papers at the top international AI/CV journals and conferences with total google scholar citations <strong><span id='total_cit'>4000+.</span></strong> [![](https://img.shields.io/badge/GoogleScholar-Zhulin_An-grey?style=flat-square&labelColor=4285F4&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=daBvGcMAAAAJ) &ensp;
+My research interest includes acceleration of neural networks and computer vision. I have published more than 70 papers at the top international AI/CV journals and conferences with a total of over <strong><span id='total_cit'>4000</span></strong> citations on Google Scholar. [![](https://img.shields.io/badge/GoogleScholar-Zhulin_An-grey?style=flat-square&labelColor=4285F4&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=daBvGcMAAAAJ) &ensp;
 
-Serves as principal investigator for multiple national and ministerial projects, including the National Natural Science Foundation of China (General Program and Young Scientists Fund) and the CAS Science and Technology Innovation Fund, and received the First Prize for Technical Invention of the Chinese Institute of Command and Control in 2025 (third contributor).
+Serves as principal investigator for multiple national and ministerial projects, including the National Natural Science Foundation of China (General Program and Young Scientists Fund) and the CAS Science and Technology Innovation Fund, and received the First Prize for Technical Invention by the Chinese Institute of Command and Control in 2025 (third contributor).
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉 Three papers were accepted by NeurIPS 2025. 
-- *2025.07*: &nbsp;🎉 One paper was accepted by ACM MM 2025. 
-- *2025.07*: &nbsp;🎉 One paper was accepted by Scientific Data. 
-- *2025.06*: &nbsp;🎉 One paper was accepted by ICCV 2025. 
+- *2025.09*: &nbsp;🎉 Three papers accepted by NeurIPS 2025. 
+- *2025.07*: &nbsp;🎉 One paper accepted by ACM MM 2025. 
+- *2025.07*: &nbsp;🎉 One paper accepted by Scientific Data. 
+- *2025.06*: &nbsp;🎉 One paper accepted by ICCV 2025. 
 - *2025.06*: &nbsp;🎉 Received the Outstanding Reviewer Award for CVPR 2025. 
-- *2025.02*: &nbsp;🎉 One paper was accepted by CVPR 2025. 
-- *2025.01*: &nbsp;🎉 Three papers were accepted by AAAI 2025 (Two oral). 
+- *2025.02*: &nbsp;🎉 One paper accepted by CVPR 2025. 
+- *2025.01*: &nbsp;🎉 Three papers accepted by AAAI 2025 (Two oral). 
 
 # 👨‍🏫 Academic Service
-- Senior Member of the China Computer Federation (CCF)
+- Senior Member, China Computer Federation (CCF)
 - Standing Committee Member of the Embodied Intelligence Professional Committee, China Command and Control Society
 - Executive Committee Member of the Distributed Computing and Systems Professional Committee, China Computer Federation
 - Member of the Embodied Intelligence Professional Committee, Chinese Association for Artificial Intelligence
@@ -48,7 +48,7 @@ Serves as principal investigator for multiple national and ministerial projects,
 
 [4] Yanming Chen, Zixin Ma, Chuanguang Yang*, **Zhulin An\***, Yiwen Zhang. Accelerating Diffusion Models via Parallel Denoising. ACM Multimedia 2025 (ACM MM), 2025. (CCF-A)
 
-[5] Yuqi Li, Chuanguang Yang, Hansheng Zeng, Zeyu Dong, **Zhulin An**, Yongjun Xu, Yingli Tian, Hao Wu. Frequency-Aligned Knowledge Distillation for Lightweight Spatiotemporal Forecasting. International Conference on Computer Vision (ICCV), 2025. (CCF-A)
+[5] Yuqi Li, Chuanguang Yang, Hansheng Zeng, Zeyu Dong, **Zhulin An**, Yongjun Xu, Yingli Tian, Hao Wu. Frequency-Aligned Knowledge Distillation for Lightweight Spatiotemporal Forecasting. International Conference on Computer Vision 2025 (ICCV), 2025. (CCF-A)
 
 [6] Chengqing Yu, Fei Wang\*, Chuanguang Yang, Zezhi Shao, Tao Sun, Tangwen Qian, Wei Wei, **Zhulin An**, Yongjun Xu\*. Merlin: Multi-View Representation Learning for Robust Multivariate Time Series Forecasting with Unfixed Missing Rates. 31st SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025. (CCF-A, Research Track)
 
