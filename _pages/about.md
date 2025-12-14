@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My research interest includes accleration of nerual networks and computer vision. I have published more than 70 papers at the top international AI/CV journals and conferences with total google scholar citations <strong><span id='total_cit'>4000+</span></strong> [![](https://img.shields.io/badge/GoogleScholar-Zhulin_An-grey?style=flat-square&labelColor=4285F4&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=daBvGcMAAAAJ) &ensp;
+My research interest includes accleration of nerual networks and computer vision. I have published more than 70 papers at the top international AI/CV journals and conferences with total google scholar citations <strong><span id='total_cit'>4000+.</span></strong> [![](https://img.shields.io/badge/GoogleScholar-Zhulin_An-grey?style=flat-square&labelColor=4285F4&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=daBvGcMAAAAJ) &ensp;
 
 Serves as principal investigator for multiple national and ministerial projects, including the National Natural Science Foundation of China (General Program and Young Scientists Fund) and the CAS Science and Technology Innovation Fund, and received the First Prize for Technical Invention of the Chinese Institute of Command and Control in 2025 (third contributor).
 
