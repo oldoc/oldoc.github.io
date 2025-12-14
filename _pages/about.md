@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My research interest includes accleration of nerual networks and computer vision. I have published more than 70 papers at the top international AI/CV journals and conferences with total <a href='https://scholar.google.com/citations?user=daBvGcMAAAAJ'>google scholar citations <strong><span id='total_cit'>4000+</span></strong></a> [![](https://img.shields.io/badge/GoogleScholar-Zhulin_An-grey?style=flat-square&labelColor=4285F4&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=daBvGcMAAAAJ) &ensp;
+My research interest includes accleration of nerual networks and computer vision. I have published more than 70 papers at the top international AI/CV journals and conferences with total google scholar citations <strong><span id='total_cit'>4000+</span></strong></a> [![](https://img.shields.io/badge/GoogleScholar-Zhulin_An-grey?style=flat-square&labelColor=4285F4&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=daBvGcMAAAAJ) &ensp;
 
 Serves as principal investigator for multiple national and ministerial projects, including the National Natural Science Foundation of China (General Program and Young Scientists Fund) and the CAS Science and Technology Innovation Fund, and received the First Prize for Technical Invention of the Chinese Institute of Command and Control in 2025 (third contributor).
 
@@ -146,24 +146,14 @@ Serves as principal investigator for multiple national and ministerial projects,
 
 [18] Chuanguang Yang, Xinqiang Yu, **Zhulin An**, Yongjun Xu. Categories of Response-Based, Feature-Based, and Relation-Based Knowledge Distillation. Chapter in Springer Book《Advancements in Knowledge Distillation: Towards New Horizons of Intelligent Systems》, 2023.
 
-
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+# 📕 Projects
+- *2025.1~2028.12* National Natural Science Foundation of China (NSFC) - General Program. Research on Diffusion Model Training and Inference Optimization.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.10* Third Place in OOD-CV: Classification Track (Self-Supervised), A Challenge for Out-of-Distribution Generalization in Computer Vision (OOD-CV), in conjunction with ICCV 2023.
+- *2024.9* The Second Place in Cross-Organ Adenocarcinoma Segmentation Task, Cross-Organ and Cross-Scanner Adenocarcinoma Segmentation Challenge, in conjunction with MICCAI 2024
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2006.09 - 2010.08* Institute of Computing Technology, Chinese Academy of Sciences, Ph.D. student in Computer System Architecture
+- *2003.09 - 2006.07* School of Computer and Information, Hefei University of Technology, Master's student in Computer Application Technology
+- *1999.09 - 2003.07* School of Computer and Information, Hefei University of Technology, Bachelor's student in Computer Science and Technology
