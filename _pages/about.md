@@ -50,7 +50,7 @@ Serves as principal investigator for multiple national and ministerial projects,
 
 [5] Yuqi Li, Chuanguang Yang, Hansheng Zeng, Zeyu Dong, **Zhulin An**, Yongjun Xu, Yingli Tian, Hao Wu. Frequency-Aligned Knowledge Distillation for Lightweight Spatiotemporal Forecasting. International Conference on Computer Vision (ICCV), 2025. (CCF-A)
 
-[6] Chengqing Yu, Fei Wang*, Chuanguang Yang, Zezhi Shao, Tao Sun, Tangwen Qian, Wei Wei, **Zhulin An**, Yongjun Xu*. Merlin: Multi-View Representation Learning for Robust Multivariate Time Series Forecasting with Unfixed Missing Rates. 31st SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025. (CCF-A, Research Track)
+[6] Chengqing Yu, Fei Wang\*, Chuanguang Yang, Zezhi Shao, Tao Sun, Tangwen Qian, Wei Wei, **Zhulin An**, Yongjun Xu\*. Merlin: Multi-View Representation Learning for Robust Multivariate Time Series Forecasting with Unfixed Missing Rates. 31st SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025. (CCF-A, Research Track)
 
 [7] Xiangqi Li, Libo Huang, **Zhulin An\***, Weilun Feng, Chuanguang Yang, Boyu Diao, Fei Wang, Yongjun Xu. Geometric Feature Embedding for Effective 3D Few-Shot Class Incremental Learning. Forty-second International Conference on Machine Learning (ICML), 2025. (CCF-A)
 
