@@ -32,9 +32,9 @@ Serves as principal investigator for multiple national and ministerial projects,
 
 # 👨‍🏫 Academic Service
 - Senior Member of the China Computer Federation (CCF)
+- Standing Committee Member of the Embodied Intelligence Professional Committee, China Command and Control Society
 - Executive Committee Member of the CCF Technical Committee on Distributed Computing and Systems
 - Committee of the Technical Committee on Embodied Intelligence of the Chinese Association for Artificial Intelligence
-- Committee of the Technical Committee on Foundation Models and Decision Intelligence of the Chinese Institute of Command and Control
 
 # 📝 Publications 
 
