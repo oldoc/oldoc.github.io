@@ -150,7 +150,8 @@ Serves as principal investigator for multiple national and ministerial projects,
 - *2025.1~2028.12* National Natural Science Foundation of China (NSFC) - General Program. Research on Diffusion Model Training and Inference Optimization.
 
 # 🎖 Honors and Awards
-- *2023.10* Third Place in OOD-CV: Classification Track (Self-Supervised), A Challenge for Out-of-Distribution Generalization in Computer Vision (OOD-CV), in conjunction with ICCV 2023.
+- *2025.06* Outstanding Reviewer Award for CVPR 2025
+- *2023.10* Third Place in OOD-CV: Classification Track (Self-Supervised), A Challenge for Out-of-Distribution Generalization in Computer Vision (OOD-CV), in conjunction with ICCV 2023
 - *2024.9* The Second Place in Cross-Organ Adenocarcinoma Segmentation Task, Cross-Organ and Cross-Scanner Adenocarcinoma Segmentation Challenge, in conjunction with MICCAI 2024
 
 # 📖 Educations
