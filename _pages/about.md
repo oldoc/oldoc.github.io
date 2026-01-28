@@ -22,6 +22,7 @@ My research interest includes acceleration of neural networks and computer visio
 Serves as principal investigator for multiple national and ministerial projects, including the National Natural Science Foundation of China (General Program and Young Scientists Fund) and the CAS Science and Technology Innovation Fund, and received the First Prize for Technical Invention by the Chinese Institute of Command and Control in 2025 (third contributor).
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉 Three papers accepted by ICLR 2026.
 - *2025.09*: &nbsp;🎉 Three papers accepted by NeurIPS 2025. 
 - *2025.07*: &nbsp;🎉 One paper accepted by ACM MM 2025. 
 - *2025.07*: &nbsp;🎉 One paper accepted by Scientific Data. 
