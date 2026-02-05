@@ -9,8 +9,19 @@
   </div>
 
   <div class="author__content">
+    {% if author.name_zh %}
+      <h3 class="author__name author__name--zh">{{ author.name_zh }}</h3>
+    {% endif %}
+
     <h3 class="author__name">{{ author.name }}</h3>
-    {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+
+    {% if author.bio %}
+      <p class="author__bio">{{ author.bio }}</p>
+    {% endif %}
+
+    {% if author.supervisor %}
+      <p class="author__supervisor"><strong>Supervisor:</strong> {{ author.supervisor }}</p>
+    {% endif %}
   </div>
 
   <div class="author__urls-wrapper">
