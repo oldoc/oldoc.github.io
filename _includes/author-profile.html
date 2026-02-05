@@ -15,12 +15,16 @@
 
     <h3 class="author__name">{{ author.name }}</h3>
 
-    {% if author.bio %}
-      <p class="author__bio">{{ author.bio }}</p>
-    {% endif %}
+    {% if author.bio or author.supervisor %}
+      <div class="author__meta">
+        {% if author.bio %}
+          <p class="author__bio">{{ author.bio }}</p>
+        {% endif %}
 
-    {% if author.supervisor %}
-      <p class="author__supervisor"><strong>Supervisor:</strong> {{ author.supervisor }}</p>
+        {% if author.supervisor %}
+          <p class="author__supervisor">{{ author.supervisor }}</p>
+        {% endif %}
+      </div>
     {% endif %}
   </div>
 
