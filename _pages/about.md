@@ -21,6 +21,9 @@ My research interest includes acceleration of neural networks and computer visio
 
 Serves as principal investigator for multiple national and ministerial projects, including the National Natural Science Foundation of China (General Program and Young Scientists Fund) and the CAS Science and Technology Innovation Fund, and received the First Prize for Technical Invention by the Chinese Institute of Command and Control in 2025 (third contributor).
 
+# 👨‍🎓 招生与实习
+课题组还有两名青年教师（https://winycg.github.io/、https://libo-huang.github.io/），算力充足（2台8卡A800、3台8卡4090机架式服务器，双卡3090塔式服务器若干），每年有2-3名硕士、1-2名博士研究生招生名额，欢迎优秀的本科生联系，也欢迎远程实习。
+
 # 🔥 News
 - *2026.01*: &nbsp;🎉 Three papers accepted by ICLR 2026.
 - *2025.09*: &nbsp;🎉 Three papers accepted by NeurIPS 2025. 
