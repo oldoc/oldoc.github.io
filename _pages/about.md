@@ -25,6 +25,7 @@ Serves as principal investigator for multiple national and ministerial projects,
 课题组还有两名青年教师（<a href="https://winycg.github.io/">杨传广</a>、<a href="https://libo-huang.github.io/">黄礼泊</a>），算力充足（2台8卡A800、3台8卡4090机架式服务器，双卡3090塔式服务器若干），每年有2-3名硕士、1-2名博士研究生招生名额，欢迎优秀的本科生联系，也欢迎远程实习。
 
 # 🔥 News
+- *2026.02*: &nbsp;🎉 Four papers accepted by CVPR 2026 (3 main conference, 1 in Findings).
 - *2026.01*: &nbsp;🎉 Three papers accepted by ICLR 2026.
 - *2025.09*: &nbsp;🎉 Three papers accepted by NeurIPS 2025. 
 - *2025.07*: &nbsp;🎉 One paper accepted by ACM MM 2025. 
