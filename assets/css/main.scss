@@ -124,6 +124,11 @@ h1:before, .anchor:before {
   line-height: 1.25;
 }
 
+.author__meta .author__titles{
+    margin: 0.15em 0 0;   /* 只给“上边”一点点间距，让两行贴近 */
+    line-height: 1.25;
+}
+
 /* bio/supervisor 这块整体与下面内容拉开 */
 .author__meta{
   margin-bottom: 0.9em; /* 你可以在 0.6~1.2em 之间微调 */
