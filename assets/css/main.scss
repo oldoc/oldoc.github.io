@@ -141,6 +141,11 @@ h1:before, .anchor:before {
   line-height: 1.25;
 }
 
+/* 关键：titles 与上方内容间距拉大 */
+.author__meta .author__titles{
+    margin-top: 0.6em;   /* 这里调大/调小，比如 0.4em~1.0em */
+}
+
 .author__meta .author__supervisor{
   margin-bottom: 0;       /* 最后一段不额外留空（如果你希望也留空就删掉这行） */
 }
