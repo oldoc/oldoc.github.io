@@ -21,9 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhulin AN, Ph.D"
-  name_zh          : "安竹林"
+  name             : "Zhulin AN (安竹林)"
+  name_zh          : ""
   avatar           : "images/anzhulin.jpg"
+  titles           : "Ph.D"
   bio              : "Associate Researcher"
   supervisor       : "PhD supervisor"
   location         : "Beijing, China"
