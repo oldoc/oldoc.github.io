@@ -143,7 +143,7 @@ h1:before, .anchor:before {
 
 /* 关键：titles 与上方内容间距拉大 */
 .author__meta .author__titles{
-    margin-top: 0.6em;   /* 这里调大/调小，比如 0.4em~1.0em */
+  margin-top: 1em;   /* 这里调大/调小，比如 0.4em~1.0em */
 }
 
 .author__meta .author__supervisor{
