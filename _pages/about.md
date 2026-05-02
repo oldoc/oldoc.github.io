@@ -48,11 +48,11 @@ Serves as principal investigator for multiple national and ministerial projects,
 
 ## [Conference Papers]
 
-[1] Weilun Feng, Guoxin Fan, Haotong Qin, Chuanguang Yang*, Mingqiang Wu, Yuqi Li, Xiangqi Li, **Zhulin An\***, Libo Huang, Dingrui Wang, Longlong Liao, Michele Magno, Yongjun Xu. WorldCache: Accelerating World Models for Free via Heterogeneous Token Caching. ICML 2026. (CCF-A)
+[1] Weilun Feng, Guoxin Fan, Haotong Qin, Chuanguang Yang*, Mingqiang Wu, Yuqi Li, Xiangqi Li, **Zhulin An\***, Libo Huang, Dingrui Wang, Longlong Liao, Michele Magno, Yongjun Xu. WorldCache: Accelerating World Models for Free via Heterogeneous Token Caching. Forty-third International Conference on Machine Learning (ICML), 2026. (CCF-A)
 
-[2] Weilun Feng†, Mingqiang Wu†, Zhiliang Chen, Chuanguang Yang*, Haotong Qin, Yuqi Li, Xiaokun Liu, Guoxin Fan, **Zhulin An\***, Libo Huang, Yulun Zhang, Michele Magno, Yongjun Xu. Fast-SAM3D: 3Dfy Anything in Images but Faster. ICML 2026. (CCF-A)
+[2] Weilun Feng†, Mingqiang Wu†, Zhiliang Chen, Chuanguang Yang*, Haotong Qin, Yuqi Li, Xiaokun Liu, Guoxin Fan, **Zhulin An\***, Libo Huang, Yulun Zhang, Michele Magno, Yongjun Xu. Fast-SAM3D: 3Dfy Anything in Images but Faster. Forty-third International Conference on Machine Learning (ICML), 2026. (CCF-A)
 
-[3] Yuqi Li, Siwei Meng, Chuanguang Yang, Weilun Feng, Junming Liu, Zhulin An, Yikai Wang*, Yingli Tian*. A Comprehensive Survey of Interaction Techniques in 3D Scene Generation. IJCAI 2026. (CCF-B)
+[3] Yuqi Li, Siwei Meng, Chuanguang Yang, Weilun Feng, Junming Liu, Zhulin An, Yikai Wang*, Yingli Tian*. A Comprehensive Survey of Interaction Techniques in 3D Scene Generation. The 35th International Joint Conference on Artificial Intelligence (IJCAI), 2026. (CCF-B)
 
 [4] Yelin Wang, Zijia Song, Chuanguang Yang*, Miaoyu Wang, **Zhulin An\***, Libo Huang, and Yongjun Xu. DFM: Difference Feature Modeling with Text-Guided Gated Contrastive Loss for Remote Sensing Image Change Captioning. 2026 IEEE International Conference on Multimedia and Expo (ICME), 2026. (CCF-B)
 
@@ -72,7 +72,7 @@ Serves as principal investigator for multiple national and ministerial projects,
 
 [12] Xiangqi Li, Libo Huang*, Jiarui Zhao, Weilun Feng, Chuanguang Yang, **Zhulin An\***, Yongjun Xu. Point-UQ: An Uncertainty-Quantification Paradigm for Point Cloud Few-Shot Class Incremental Learning. The Fourteenth International Conference on Learning Representations (ICLR), 2026.
 
-[13] Weilun Feng†, Haotong Qin†, Chuanguang Yang*, Xiangqi Li, Han Yang, Yuqi Li, **Zhulin An\***, Libo Huang, Michele Magno, Yongjun Xu. S^2^Q-VDiT: Accurate Quantized Video Diffusion Transformer with Salient Data and Sparse Token Distillation. The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025. (CCF-A)
+[13] Weilun Feng†, Haotong Qin†, Chuanguang Yang*, Xiangqi Li, Han Yang, Yuqi Li, **Zhulin An\***, Libo Huang, Michele Magno, Yongjun Xu. $S^2$Q-VDiT: Accurate Quantized Video Diffusion Transformer with Salient Data and Sparse Token Distillation. The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025. (CCF-A)
 
 [14] Yisong Fu, Fei Wang, Zezhi Shao, Boyu Diao, Lin Wu, **Zhulin An**, Chengqing Yu, Yujie Li, Yongjun Xu. On the Integration of Spatial-Temporal Knowledge: A Lightweight Approach to Atmospheric Time Series Forecasting. The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025. (CCF-A)
 
