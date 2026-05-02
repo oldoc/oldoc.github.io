@@ -25,7 +25,9 @@ Serves as principal investigator for multiple national and ministerial projects,
 课题组还有两名青年教师（<a href="https://winycg.github.io/">杨传广</a>、<a href="https://libo-huang.github.io/">黄礼泊</a>），算力充足（2台8卡A800、3台8卡4090机架式服务器，双卡3090塔式服务器若干），每年有2-3名硕士、1-2名博士研究生招生名额，欢迎优秀的本科生联系，也欢迎远程实习。
 
 # 🔥 News
-- *2026.03*: &nbsp;🎉 One papers accepted by ICME 2026.
+- *2026.05*: &nbsp;🎉 Two papers accepted by ICML 2026.
+- *2026.04*: &nbsp;🎉 One paper accepted by IJCAI 2026.
+- *2026.03*: &nbsp;🎉 One paper accepted by ICME 2026.
 - *2026.02*: &nbsp;🎉 Four papers accepted by CVPR 2026 (3 main conference, 1 in Findings).
 - *2026.01*: &nbsp;🎉 Three papers accepted by ICLR 2026.
 - *2025.09*: &nbsp;🎉 Three papers accepted by NeurIPS 2025. 
@@ -46,89 +48,95 @@ Serves as principal investigator for multiple national and ministerial projects,
 
 ## [Conference Papers]
 
-[1] Yelin Wang, Zijia Song, Chuanguang Yang*, Miaoyu Wang, **Zhulin An\***, Libo Huang, and Yongjun Xu. DFM: Difference Feature Modeling with Text-Guided Gated Contrastive Loss for Remote Sensing Image Change Captioning. 2026 IEEE International Conference on Multimedia and Expo (ICME), 2026. (CCF-B)
+[1] Weilun Feng, Guoxin Fan, Haotong Qin, Chuanguang Yang*, Mingqiang Wu, Yuqi Li, Xiangqi Li, **Zhulin An\***, Libo Huang, Dingrui Wang, Longlong Liao, Michele Magno, Yongjun Xu. WorldCache: Accelerating World Models for Free via Heterogeneous Token Caching. ICML 2026. (CCF-A)
 
-[2] Jiarui Zhao, Libo Huang*, Xiangqi Li, **Zhulin An\***, Chuanguang Yang, Yu Wang, Boyu Diao, Yongjun Xu. Representation-Steered Incremental Adapter-Tuning for Class-Incremental Learning with Pre-Trained Models. The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026. (CCF-A)
+[2] Weilun Feng†, Mingqiang Wu†, Zhiliang Chen, Chuanguang Yang*, Haotong Qin, Yuqi Li, Xiaokun Liu, Guoxin Fan, **Zhulin An\***, Libo Huang, Yulun Zhang, Michele Magno, Yongjun Xu. Fast-SAM3D: 3Dfy Anything in Images but Faster. ICML 2026. (CCF-A)
 
-[3] Wenjing Tang, Chuanguang Yang*, **Zhulin An\***, Libo Huang, Boyu Diao, Yongjun Xu. EfficientVPR: Toward Efficient Visual Place Recognition via Scene-Aware Prompt Tuning and Adaptive Feature Enhancement. The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026. (CCF-A)
+[3] Yuqi Li, Siwei Meng, Chuanguang Yang, Weilun Feng, Junming Liu, Zhulin An, Yikai Wang*, Yingli Tian*. A Comprehensive Survey of Interaction Techniques in 3D Scene Generation. IJCAI 2026. (CCF-B)
 
-[4] Yingcheng Hu, Haowen Gong, Chuanguang Yang, **Zhulin An\***, Yongjun Xu, Songhua Liu*. MultiAnimate: Pose-Guided Image Animation Made Extensible.  The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026. (CCF-A)
+[4] Yelin Wang, Zijia Song, Chuanguang Yang*, Miaoyu Wang, **Zhulin An\***, Libo Huang, and Yongjun Xu. DFM: Difference Feature Modeling with Text-Guided Gated Contrastive Loss for Remote Sensing Image Change Captioning. 2026 IEEE International Conference on Multimedia and Expo (ICME), 2026. (CCF-B)
 
-[5] Zijia An, Boyu Diao*, RuiQi Liu, Libo Huang, Chuanguang Yang, Fei Wang, Zhulin An, Yongjun Xu. Parameterized Prompt for Incremental Object Detection. The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026. (CCF-A)
+[5] Jiarui Zhao, Libo Huang*, Xiangqi Li, **Zhulin An\***, Chuanguang Yang, Yu Wang, Boyu Diao, Yongjun Xu. Representation-Steered Incremental Adapter-Tuning for Class-Incremental Learning with Pre-Trained Models. The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026. (CCF-A)
 
-[6] Qiji Ma, Chuanguang Yang*, **Zhulin An\***, Libo Huang, Yuqi Li, Erhu Zhao, Yongjun Xu. Distilling Out-of-Distribution Knowledge from Large Language Models for CLIP Generalization. The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026. (Findings track)
+[6] Wenjing Tang, Chuanguang Yang*, **Zhulin An\***, Libo Huang, Boyu Diao, Yongjun Xu. EfficientVPR: Toward Efficient Visual Place Recognition via Scene-Aware Prompt Tuning and Adaptive Feature Enhancement. The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026. (CCF-A)
 
-[7] Weilun Feng, Chuanguang Yang*, Haotong Qin, Mingqiang Wu, Yuqi Li, Xiangqi Li, **Zhulin An\***, Libo Huang, Yulun Zhang, Michele Magno, Yongjun Xu. QuantSparse: Comprehensively Compressing Video Diffusion Transformer with Model Quantization and Attention Sparsification. The Fourteenth International Conference on Learning Representations (ICLR), 2026.
+[7] Yingcheng Hu, Haowen Gong, Chuanguang Yang, **Zhulin An\***, Yongjun Xu, Songhua Liu*. MultiAnimate: Pose-Guided Image Animation Made Extensible.  The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026. (CCF-A)
+
+[8] Zijia An, Boyu Diao*, RuiQi Liu, Libo Huang, Chuanguang Yang, Fei Wang, Zhulin An, Yongjun Xu. Parameterized Prompt for Incremental Object Detection. The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026. (CCF-A)
+
+[9] Qiji Ma, Chuanguang Yang*, **Zhulin An\***, Libo Huang, Yuqi Li, Erhu Zhao, Yongjun Xu. Distilling Out-of-Distribution Knowledge from Large Language Models for CLIP Generalization. The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026. (Findings track)
+
+[10] Weilun Feng, Chuanguang Yang*, Haotong Qin, Mingqiang Wu, Yuqi Li, Xiangqi Li, **Zhulin An\***, Libo Huang, Yulun Zhang, Michele Magno, Yongjun Xu. QuantSparse: Comprehensively Compressing Video Diffusion Transformer with Model Quantization and Attention Sparsification. The Fourteenth International Conference on Learning Representations (ICLR), 2026.
  	
-[8] Weilun Feng, Haotong Qin, Mingqiang Wu, Chuanguang Yang*, Yuqi Li, Xiangqi Li, **Zhulin An\***, Libo Huang, Yulun Zhang, Michele Magno, Yongjun Xu. Quantized Visual Geometry Grounded Transformer. The Fourteenth International Conference on Learning Representations (ICLR), 2026.
+[11] Weilun Feng, Haotong Qin, Mingqiang Wu, Chuanguang Yang*, Yuqi Li, Xiangqi Li, **Zhulin An\***, Libo Huang, Yulun Zhang, Michele Magno, Yongjun Xu. Quantized Visual Geometry Grounded Transformer. The Fourteenth International Conference on Learning Representations (ICLR), 2026.
 
-[9] Xiangqi Li, Libo Huang*, Jiarui Zhao, Weilun Feng, Chuanguang Yang, **Zhulin An\***, Yongjun Xu. Point-UQ: An Uncertainty-Quantification Paradigm for Point Cloud Few-Shot Class Incremental Learning. The Fourteenth International Conference on Learning Representations (ICLR), 2026.
+[12] Xiangqi Li, Libo Huang*, Jiarui Zhao, Weilun Feng, Chuanguang Yang, **Zhulin An\***, Yongjun Xu. Point-UQ: An Uncertainty-Quantification Paradigm for Point Cloud Few-Shot Class Incremental Learning. The Fourteenth International Conference on Learning Representations (ICLR), 2026.
 
-[10] Weilun Feng, Haotong Qin, Chuanguang Yang*, Xiangqi Li, Han Yang, Yuqi Li, **Zhulin An\***, Libo Huang, Michele Magno, Yongjun Xu. S^2^Q-VDiT: Accurate Quantized Video Diffusion Transformer with Salient Data and Sparse Token Distillation. The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025. (CCF-A)
+[13] Weilun Feng†, Haotong Qin†, Chuanguang Yang*, Xiangqi Li, Han Yang, Yuqi Li, **Zhulin An\***, Libo Huang, Michele Magno, Yongjun Xu. S^2^Q-VDiT: Accurate Quantized Video Diffusion Transformer with Salient Data and Sparse Token Distillation. The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025. (CCF-A)
 
-[11] Yisong Fu, Fei Wang, Zezhi Shao, Boyu Diao, Lin Wu, **Zhulin An**, Chengqing Yu, Yujie Li, Yongjun Xu. On the Integration of Spatial-Temporal Knowledge: A Lightweight Approach to Atmospheric Time Series Forecasting. The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025. (CCF-A)
+[14] Yisong Fu, Fei Wang, Zezhi Shao, Boyu Diao, Lin Wu, **Zhulin An**, Chengqing Yu, Yujie Li, Yongjun Xu. On the Integration of Spatial-Temporal Knowledge: A Lightweight Approach to Atmospheric Time Series Forecasting. The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025. (CCF-A)
 
-[12] Yisong Fu, Zezhi Shao, Chengqing Yu, Yujie Li, **Zhulin An**, Cheems Wang, Yongjun Xu, Fei Wang. Selective Learning for Deep Time Series Forecasting. The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025. (CCF-A)
+[15] Yisong Fu, Zezhi Shao, Chengqing Yu, Yujie Li, **Zhulin An**, Cheems Wang, Yongjun Xu, Fei Wang. Selective Learning for Deep Time Series Forecasting. The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025. (CCF-A)
 
-[13] Yanming Chen, Zixin Ma, Chuanguang Yang*, **Zhulin An\***, Yiwen Zhang. Accelerating Diffusion Models via Parallel Denoising. ACM Multimedia 2025 (ACM MM), 2025. (CCF-A)
+[16] Yanming Chen, Zixin Ma, Chuanguang Yang*, **Zhulin An\***, Yiwen Zhang. Accelerating Diffusion Models via Parallel Denoising. ACM Multimedia 2025 (ACM MM), 2025. (CCF-A)
 
-[14] Yuqi Li, Chuanguang Yang, Hansheng Zeng, Zeyu Dong, **Zhulin An**, Yongjun Xu, Yingli Tian, Hao Wu. Frequency-Aligned Knowledge Distillation for Lightweight Spatiotemporal Forecasting. International Conference on Computer Vision 2025 (ICCV), 2025. (CCF-A)
+[17] Yuqi Li†, Chuanguang Yang†, Hansheng Zeng, Zeyu Dong, **Zhulin An**, Yongjun Xu, Yingli Tian, Hao Wu. Frequency-Aligned Knowledge Distillation for Lightweight Spatiotemporal Forecasting. International Conference on Computer Vision 2025 (ICCV), 2025. (CCF-A)
 
-[15] Chengqing Yu, Fei Wang\*, Chuanguang Yang, Zezhi Shao, Tao Sun, Tangwen Qian, Wei Wei, **Zhulin An**, Yongjun Xu\*. Merlin: Multi-View Representation Learning for Robust Multivariate Time Series Forecasting with Unfixed Missing Rates. 31st SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025. (CCF-A, Research Track)
+[18] Chengqing Yu, Fei Wang\*, Chuanguang Yang, Zezhi Shao, Tao Sun, Tangwen Qian, Wei Wei, **Zhulin An**, Yongjun Xu\*. Merlin: Multi-View Representation Learning for Robust Multivariate Time Series Forecasting with Unfixed Missing Rates. 31st SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025. (CCF-A, Research Track)
 
-[16] Xiangqi Li, Libo Huang, **Zhulin An\***, Weilun Feng, Chuanguang Yang, Boyu Diao, Fei Wang, Yongjun Xu. Geometric Feature Embedding for Effective 3D Few-Shot Class Incremental Learning. Forty-second International Conference on Machine Learning (ICML), 2025. (CCF-A)
+[19] Xiangqi Li†, Libo Huang†, **Zhulin An\***, Weilun Feng, Chuanguang Yang, Boyu Diao, Fei Wang, Yongjun Xu. Geometric Feature Embedding for Effective 3D Few-Shot Class Incremental Learning. Forty-second International Conference on Machine Learning (ICML), 2025. (CCF-A)
 
-[17] Weilun Feng, Chuanguang Yang*, Haotong Qin, Xiangqi Li, Yu Wang, **Zhulin An\***, Libo Huang, Boyu Diao, Zixiang Zhao, Yongjun Xu, Michele Magno. Q-VDiT: Towards Accurate Quantization of Video-Generation Diffusion Transformers. Forty-second International Conference on Machine Learning (ICML), 2025. (CCF-A)
+[20] Weilun Feng, Chuanguang Yang*, Haotong Qin, Xiangqi Li, Yu Wang, **Zhulin An\***, Libo Huang, Boyu Diao, Zixiang Zhao, Yongjun Xu, Michele Magno. Q-VDiT: Towards Accurate Quantization of Video-Generation Diffusion Transformers. Forty-second International Conference on Machine Learning (ICML), 2025. (CCF-A)
 
-[18] Han Yang, Chuanguang Yang*, Qiuli Wang, **Zhulin An\***, Weilun Feng, Libo Huang, Yongjun Xu. Multi-party Collaborative Attention Control for Image Customization. The Thirty-Fifth IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025. (CCF-A)
+[21] Han Yang, Chuanguang Yang*, Qiuli Wang, **Zhulin An\***, Weilun Feng, Libo Huang, Yongjun Xu. Multi-party Collaborative Attention Control for Image Customization. The Thirty-Fifth IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025. (CCF-A)
 
-[19] Chuanguang Yang, Xinqiang Yu, Han Yang, **Zhulin An\***, Chengqing Yu, Libo Huang, Yongjun Xu. Multi-Teacher Knowledge Distillation with Reinforcement Learning for Visual Recognition. The 39th AAAI Conference on Artificial Intelligence (AAAI), 2025. (CCF-A)
+[22] Chuanguang Yang, Xinqiang Yu, Han Yang, **Zhulin An\***, Chengqing Yu, Libo Huang, Yongjun Xu. Multi-Teacher Knowledge Distillation with Reinforcement Learning for Visual Recognition. The 39th AAAI Conference on Artificial Intelligence (AAAI), 2025. (CCF-A)
 
-[20] Weilun Feng, Haotong Qin, Chuanguang Yang*, **Zhulin An\***, Libo Huang, Boyu Diao, Fei Wang, Renshuai Tao, Yongjun Xu, Michele Magno. MPQ-DM: Mixed Precision Quantization for Extremely Low Bit Diffusion Models. The 39th AAAI Conference on Artificial Intelligence (AAAI), 2025. (CCF-A)
+[23] Weilun Feng†, Haotong Qin†, Chuanguang Yang*, **Zhulin An\***, Libo Huang, Boyu Diao, Fei Wang, Renshuai Tao, Yongjun Xu, Michele Magno. MPQ-DM: Mixed Precision Quantization for Extremely Low Bit Diffusion Models. The 39th AAAI Conference on Artificial Intelligence (AAAI), 2025. (CCF-A)
 
-[21] Han Yang, Chuanguang Yang*, **Zhulin An\***, Libo Huang, Yongjun Xu. HSRDiff: A Hierarchical Self-Regulation Diffusion Model for Stochastic Semantic Segmentation. The 39th AAAI Conference on Artificial Intelligence (AAAI), 2025. (CCF-A)
+[24] Han Yang, Chuanguang Yang*, **Zhulin An\***, Libo Huang, Yongjun Xu. HSRDiff: A Hierarchical Self-Regulation Diffusion Model for Stochastic Semantic Segmentation. The 39th AAAI Conference on Artificial Intelligence (AAAI), 2025. (CCF-A)
 
-[22] Haonan Mai, Libo Huang*, **Zhulin An\***, Jiarui Zhao, Chuanguang Yang, Erhu Zhao, Yongjun Xu. OLN++: Improved Object Localization Network for Open-world Object Detection. 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2025. (CCF-B)
+[25] Haonan Mai, Libo Huang*, **Zhulin An\***, Jiarui Zhao, Chuanguang Yang, Erhu Zhao, Yongjun Xu. OLN++: Improved Object Localization Network for Open-world Object Detection. 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2025. (CCF-B)
 
-[23] RuiQi Liu, Boyu Diao*, Libo Huang, Zijia An, **Zhulin An**, Yongjun Xu. Continual Learning in the Frequency Domain. The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS), 2024. (CCF-A)
+[26] RuiQi Liu, Boyu Diao*, Libo Huang, Zijia An, **Zhulin An**, Yongjun Xu. Continual Learning in the Frequency Domain. The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS), 2024. (CCF-A)
 
-[24] Weilun Feng, Chuanguang Yang*, **Zhulin An\***, Libo Huang, Boyu Diao, Fei Wang, Yongjun Xu. Relational Diffusion Distillation For Efficient Image Generation. ACM Multimedia 2024 (ACM MM), 2024.(CCF-A)
+[27] Weilun Feng, Chuanguang Yang*, **Zhulin An\***, Libo Huang, Boyu Diao, Fei Wang, Yongjun Xu. Relational Diffusion Distillation For Efficient Image Generation. ACM Multimedia 2024 (ACM MM), 2024.(CCF-A)
 
-[25] Yuting Zhang, Zhao Zhang, Yiqing Wu, Ying Sun, Fuzhen Zhuang*, Wenhui Yu, Lantao Hu, Han Li, Kun Gai, **Zhulin An\***, Yongjun Xu. Tag Tree-Guided Multi-grained Alignment for Multi-Domain Short Video Recommendation. ACM Multimedia 2024 (ACM MM), 2024.(CCF-A)
+[28] Yuting Zhang, Zhao Zhang, Yiqing Wu, Ying Sun, Fuzhen Zhuang*, Wenhui Yu, Lantao Hu, Han Li, Kun Gai, **Zhulin An\***, Yongjun Xu. Tag Tree-Guided Multi-grained Alignment for Multi-Domain Short Video Recommendation. ACM Multimedia 2024 (ACM MM), 2024.(CCF-A)
 
-[26] Yuting Zhang, Yiqing Wu, ruidong han, Ying Sun, Yongchun Zhu, Xiang Li, Wei Lin, Fuzhen Zhuang*, **Zhulin An\***, Yongjun Xu. Unified Dual-Intent Translation for Joint Modeling of Search and Recommendation. 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024. (CCF-A, ADS Track)
+[29] Yuting Zhang, Yiqing Wu, ruidong han, Ying Sun, Yongchun Zhu, Xiang Li, Wei Lin, Fuzhen Zhuang*, **Zhulin An\***, Yongjun Xu. Unified Dual-Intent Translation for Joint Modeling of Search and Recommendation. 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024. (CCF-A, ADS Track)
 
-[27] Chuanguang Yang, **Zhulin An\***, Libo Huang, Junyu Bi, XinQiang Yu, Han Yang, Boyu Diao, Yongjun Xu*. CLIP-KD: A Comprehensive Study of Distilling CLIP Models. The Thirty-Fourth IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024. (CCF-A)
+[30] Chuanguang Yang, **Zhulin An\***, Libo Huang, Junyu Bi, XinQiang Yu, Han Yang, Boyu Diao, Yongjun Xu*. CLIP-KD: A Comprehensive Study of Distilling CLIP Models. The Thirty-Fourth IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024. (CCF-A)
 
-[28] Libo Huang, Yan Zeng, Chuanguang Yang, **Zhulin An\***, Boyu Diao, Yongjun Xu. eTag: Class-Incremental Learning via Embedding Distillation and Task-Oriented Generation. 36th AAAI Conference on Artificial Intelligence (AAAI), 2024. (CCF-A)
+[31] Libo Huang, Yan Zeng, Chuanguang Yang, **Zhulin An\***, Boyu Diao, Yongjun Xu. eTag: Class-Incremental Learning via Embedding Distillation and Task-Oriented Generation. 36th AAAI Conference on Artificial Intelligence (AAAI), 2024. (CCF-A)
 
-[29] Libo Huang, **Zhulin An\***, Yan Zeng, Xiang Zhi, Yongjun Xu. KFC: Knowledge Reconstruction and Feedback Consolidation Enable Efficient and Effective Continual Generative Learning. The Twelfth International Conference on Learning Representations (ICLR), 2024. (Tiny paper, Invite to present (notable))  
+[32] Libo Huang, **Zhulin An\***, Yan Zeng, Xiang Zhi, Yongjun Xu. KFC: Knowledge Reconstruction and Feedback Consolidation Enable Efficient and Effective Continual Generative Learning. The Twelfth International Conference on Learning Representations (ICLR), 2024. (Tiny paper, Invite to present (notable))  
 
-[30] Yuting Zhang, Yiqing Wu, Ran Le, Yongchun Zhu, Fuzhen Zhuang*, Ruidong Han, Xiang Li, Wei Lin, **Zhulin An\***, Yongjun Xu. Modeling Dual Period-Varying Preferences for Takeaway Recommendation. 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023. (CCF-A, ADS Track)
+[33] Yuting Zhang, Yiqing Wu, Ran Le, Yongchun Zhu, Fuzhen Zhuang*, Ruidong Han, Xiang Li, Wei Lin, **Zhulin An\***, Yongjun Xu. Modeling Dual Period-Varying Preferences for Takeaway Recommendation. 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023. (CCF-A, ADS Track)
 
-[31] Zhao Zhang, Zhanpeng Guan, Fuwei Zhang, Fuzhen Zhuang*, **Zhulin An\***, Fei Wang, Yongjun Xu. Weighted Knowledge Graph Embedding. 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2023. (CCF-A) 
+[34] Zhao Zhang, Zhanpeng Guan, Fuwei Zhang, Fuzhen Zhuang*, **Zhulin An\***, Fei Wang, Yongjun Xu. Weighted Knowledge Graph Embedding. 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2023. (CCF-A) 
 
-[32] Chuanguang Yang, **Zhulin An\***, Helong Zhou, Linhang Cai, Xiang Zhi, Jiwen Wu, Yongjun Xu, Qian Zhang. MixSKD: Self-Knowledge Distillation from Mixup for Image Recognition. European Conference on Computer Vision (ECCV), 2022. (CCF-B) 
+[35] Chuanguang Yang, **Zhulin An\***, Helong Zhou, Linhang Cai, Xiang Zhi, Jiwen Wu, Yongjun Xu, Qian Zhang. MixSKD: Self-Knowledge Distillation from Mixup for Image Recognition. European Conference on Computer Vision (ECCV), 2022. (CCF-B) 
 
-[33] Chuanguang Yang, Helong Zhou, **Zhulin An\***, Xue Jiang, Yongjun Xu, Qian Zhang. Cross-Image Relational Knowledge Distillation for Semantic Segmentation. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022. (CCF-A)
+[36] Chuanguang Yang, Helong Zhou, **Zhulin An\***, Xue Jiang, Yongjun Xu, Qian Zhang. Cross-Image Relational Knowledge Distillation for Semantic Segmentation. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022. (CCF-A)
 
-[34] Chuanguang Yang, **Zhulin An\***, Yongjun Xu. Localizing Semantic Patches for Accelerating Image Classification. IEEE International Conference on Multimedia and Expo (ICME), 2022. (CCF-B)
+[37] Chuanguang Yang, **Zhulin An\***, Yongjun Xu. Localizing Semantic Patches for Accelerating Image Classification. IEEE International Conference on Multimedia and Expo (ICME), 2022. (CCF-B)
 
-[35] Yanming Chen, Mingrui Shuai, Shubin Lou, **Zhulin An\***, Yiwen Zhang. FPAR: Filter Pruning via Attention and Rank Enhancement. IEEE International Conference on Multimedia and Expo (ICME), 2022. (CCF-B)
+[38] Yanming Chen, Mingrui Shuai, Shubin Lou, **Zhulin An\***, Yiwen Zhang. FPAR: Filter Pruning via Attention and Rank Enhancement. IEEE International Conference on Multimedia and Expo (ICME), 2022. (CCF-B)
 
-[36] Chuanguang Yang, **Zhulin An\***, Linhang Cai, Yongjun Xu. Mutual Contrastive Learning for Visual Representation Learning. 36th AAAI Conference on Artificial Intelligence (AAAI), 2022. (CCF-A)
+[39] Chuanguang Yang, **Zhulin An\***, Linhang Cai, Yongjun Xu. Mutual Contrastive Learning for Visual Representation Learning. 36th AAAI Conference on Artificial Intelligence (AAAI), 2022. (CCF-A)
 
-[37] Linhang Cai, **Zhulin An\***, Chuanguang Yang, Yangchun Yan, Yongjun Xu. Prior Gradient Mask Guided Pruning-aware Fine-tuning. 36th AAAI Conference on Artificial Intelligence (AAAI), 2022. (CCF-A)
+[40] Linhang Cai, **Zhulin An\***, Chuanguang Yang, Yangchun Yan, Yongjun Xu. Prior Gradient Mask Guided Pruning-aware Fine-tuning. 36th AAAI Conference on Artificial Intelligence (AAAI), 2022. (CCF-A)
 
-[38] Chuanguang Yang, **Zhulin An\***, Linhang Cai, Yongjun Xu. Hierarchical Self-supervised Augmented Knowledge Distillation. 30th International Joint Conference on Artificial Intelligence (IJCAI), 2021. (CCF-A)
+[41] Chuanguang Yang, **Zhulin An\***, Linhang Cai, Yongjun Xu. Hierarchical Self-supervised Augmented Knowledge Distillation. 30th International Joint Conference on Artificial Intelligence (IJCAI), 2021. (CCF-A)
 
-[39] Chuanguang Yang, **Zhulin An\***, Yongjun Xu. Multi-view Contrastive Learning for Online Knowledge Distillation. 46th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021. (CCF-B)
+[42] Chuanguang Yang, **Zhulin An\***, Yongjun Xu. Multi-view Contrastive Learning for Online Knowledge Distillation. 46th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021. (CCF-B)
 
-[40] Linhang Cai, **Zhulin An\***, Yongjun Xu. GHFP: Gradually Hard Filter Pruning. International Joint Conference on Neural Networks (IJCNN), 2021. (CCF-C)
+[43] Linhang Cai, **Zhulin An\***, Yongjun Xu. GHFP: Gradually Hard Filter Pruning. International Joint Conference on Neural Networks (IJCNN), 2021. (CCF-C)
 
-[41] Chuanguang Yang, **Zhulin An\***, Hui Zhu, Xiaolong Hu, Kun Zhang, Kaiqiang Xu, Chao Li, Yongjun Xu. Gated Convolutional Networks with Hybrid Connectivity for Image Classification. 34th AAAI Conference on Artificial Intelligence (AAAI), 2020. (CCF-A)
+[44] Chuanguang Yang, **Zhulin An\***, Hui Zhu, Xiaolong Hu, Kun Zhang, Kaiqiang Xu, Chao Li, Yongjun Xu. Gated Convolutional Networks with Hybrid Connectivity for Image Classification. 34th AAAI Conference on Artificial Intelligence (AAAI), 2020. (CCF-A)
 
-[42] Xiaolong Hu, **Zhulin An\***, Chuanguang Yang, Hui Zhu, Kaiqiang Xu and Yongjun Xu. DRNet: Dissect and Reconstruct the Convolutional Neural Network via Interpretable Manners. 24th European Conference on Artificial Intelligence (ECAI), 2020. (CCF-B)
+[45] Xiaolong Hu, **Zhulin An\***, Chuanguang Yang, Hui Zhu, Kaiqiang Xu and Yongjun Xu. DRNet: Dissect and Reconstruct the Convolutional Neural Network via Interpretable Manners. 24th European Conference on Artificial Intelligence (ECAI), 2020. (CCF-B)
 
 
 
