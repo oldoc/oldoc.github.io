@@ -44,6 +44,7 @@ Serves as principal investigator for multiple national and ministerial projects,
 ## [Conference Papers]
 
 [1] Libo Huang, Xiangqi Li, Jiarui Zhao, **Zhulin An\***, Chuanguang Yang, Boyu Diao, Fei Wang, Yan Zeng, Zhifeng Hao, Yongjun Xu. PrePrompt: Predictive prompting for class incremental learning. 32nd SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026. (CCF-A)
+
 [2] Weilun Feng, Guoxin Fan, Haotong Qin, Chuanguang Yang*, Mingqiang Wu, Yuqi Li, Xiangqi Li, **Zhulin An\***, Libo Huang, Dingrui Wang, Longlong Liao, Michele Magno, Yongjun Xu. WorldCache: Accelerating World Models for Free via Heterogeneous Token Caching. Forty-third International Conference on Machine Learning (ICML), 2026. (CCF-A)
 
 [3] Weilun Feng†, Mingqiang Wu†, Zhiliang Chen, Chuanguang Yang*, Haotong Qin, Yuqi Li, Xiaokun Liu, Guoxin Fan, **Zhulin An\***, Libo Huang, Yulun Zhang, Michele Magno, Yongjun Xu. Fast-SAM3D: 3Dfy Anything in Images but Faster. Forty-third International Conference on Machine Learning (ICML), 2026. (CCF-A)
