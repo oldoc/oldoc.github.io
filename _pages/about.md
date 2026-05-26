@@ -63,11 +63,11 @@ Serves as principal investigator for multiple national and ministerial projects,
 
 [10] Qiji Ma, Chuanguang Yang*, **Zhulin An\***, Libo Huang, Yuqi Li, Erhu Zhao, Yongjun Xu. Distilling Out-of-Distribution Knowledge from Large Language Models for CLIP Generalization. The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026. (Findings track)
 
-[11] Weilun Feng, Chuanguang Yang*, Haotong Qin, Mingqiang Wu, Yuqi Li, Xiangqi Li, **Zhulin An\***, Libo Huang, Yulun Zhang, Michele Magno, Yongjun Xu. QuantSparse: Comprehensively Compressing Video Diffusion Transformer with Model Quantization and Attention Sparsification. The Fourteenth International Conference on Learning Representations (ICLR), 2026.
+[11] Weilun Feng, Chuanguang Yang*, Haotong Qin, Mingqiang Wu, Yuqi Li, Xiangqi Li, **Zhulin An\***, Libo Huang, Yulun Zhang, Michele Magno, Yongjun Xu. QuantSparse: Comprehensively Compressing Video Diffusion Transformer with Model Quantization and Attention Sparsification. The Fourteenth International Conference on Learning Representations (ICLR), 2026. (CCF-A)
  	
-[12] Weilun Feng, Haotong Qin, Mingqiang Wu, Chuanguang Yang*, Yuqi Li, Xiangqi Li, **Zhulin An\***, Libo Huang, Yulun Zhang, Michele Magno, Yongjun Xu. Quantized Visual Geometry Grounded Transformer. The Fourteenth International Conference on Learning Representations (ICLR), 2026.
+[12] Weilun Feng, Haotong Qin, Mingqiang Wu, Chuanguang Yang*, Yuqi Li, Xiangqi Li, **Zhulin An\***, Libo Huang, Yulun Zhang, Michele Magno, Yongjun Xu. Quantized Visual Geometry Grounded Transformer. The Fourteenth International Conference on Learning Representations (ICLR), 2026. (CCF-A)
 
-[13] Xiangqi Li, Libo Huang*, Jiarui Zhao, Weilun Feng, Chuanguang Yang, **Zhulin An\***, Yongjun Xu. Point-UQ: An Uncertainty-Quantification Paradigm for Point Cloud Few-Shot Class Incremental Learning. The Fourteenth International Conference on Learning Representations (ICLR), 2026.
+[13] Xiangqi Li, Libo Huang*, Jiarui Zhao, Weilun Feng, Chuanguang Yang, **Zhulin An\***, Yongjun Xu. Point-UQ: An Uncertainty-Quantification Paradigm for Point Cloud Few-Shot Class Incremental Learning. The Fourteenth International Conference on Learning Representations (ICLR), 2026. (CCF-A)
 
 [14] Weilun Feng†, Haotong Qin†, Chuanguang Yang*, Xiangqi Li, Han Yang, Yuqi Li, **Zhulin An\***, Libo Huang, Michele Magno, Yongjun Xu. $S^2$Q-VDiT: Accurate Quantized Video Diffusion Transformer with Salient Data and Sparse Token Distillation. The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025. (CCF-A)
 
