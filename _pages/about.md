@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Zhulin An is an Associate Research Professor and PhD supervisor at the Institute of Computing Technology, Chinese Academy of Sciences. He is a full-time, tenure-track research faculty member who can independently advise PhD students in Computer Science. His research interests include neural network acceleration and continual learning. He has published more than 70 papers in top-tier international AI/CV journals and conferences, with a total of over <strong><span id='total_cit'>5000</span></strong> citations on Google Scholar. [![](https://img.shields.io/badge/GoogleScholar-Zhulin_An-grey?style=flat-square&labelColor=4285F4&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=daBvGcMAAAAJ) &ensp;
+Zhulin An is a full-time, tenure-track Associate Professor (Associate Researcher) at the Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS). He can solely advise Ph.D. and master's students in Computer Science. His research interests include neural network acceleration and continual learning. He has published more than 70 papers in top-tier international AI/CV journals and conferences, with a total of over <strong><span id='total_cit'>5000</span></strong> citations on Google Scholar. [![](https://img.shields.io/badge/GoogleScholar-Zhulin_An-grey?style=flat-square&labelColor=4285F4&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=daBvGcMAAAAJ) &ensp;
 
 Serves as principal investigator for multiple national and ministerial projects, including the National Natural Science Foundation of China (General Program and Young Scientists Fund) and the CAS Science and Technology Innovation Fund, and received the First Prize for Technical Invention by the Chinese Institute of Command and Control in 2025 (third contributor).
 
@@ -25,6 +25,8 @@ Serves as principal investigator for multiple national and ministerial projects,
 课题组还有两名青年教师（<a href="https://winycg.github.io/">杨传广</a>、<a href="https://libo-huang.github.io/">黄礼泊</a>），算力充足（2台8卡A800、3台8卡4090机架式服务器，双卡3090塔式服务器若干），每年有2-3名硕士、1-2名博士研究生招生名额，欢迎优秀的本科生联系，也欢迎远程实习。
 
 # 🔥 News
+- *2026.06*: &nbsp;🎉 One paper accepted by TPAMI.
+- *2026.06*: &nbsp;🎉 Recognized as a CVPR 2026 Outstanding Reviewer.
 - *2026.05*: &nbsp;🎉 One paper accepted by KDD 2026.
 - *2026.05*: &nbsp;🎉 Two papers accepted by ICML 2026.
 - *2026.04*: &nbsp;🎉 One paper accepted by IJCAI 2026.
@@ -139,46 +141,49 @@ Serves as principal investigator for multiple national and ministerial projects,
 
 ## [Journal Papers]
 
-[1] **Zhulin An**, Xinqiang Yu, Chu Wang*, Yinlong Zhang, Chunhe Song*. Embodied intelligence: Recent advances and future perspectives. The Innovation Informatics 1:100008, 2025.
+[1] Weilun Feng, Chuanguang Yang, Haotong Qin, Yuqi Li, Xiangqi Li, Zhulin An, Libo Huang, Boyu Diao, Fuzhen Zhuang, Michele Magno, Yongjun Xu, Yingli Tian, Tingwen Huang. MPQ-DMv2: Flexible Residual Mixed Precision Quantization for Low-Bit Diffusion Models With Temporal Distillation. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). 2026. (CCF-A)
 
-[2] Yanling Zhang, Wanhui Sun, Chuanguang Yang*, Libo Huang*, **Zhulin An\***, Weilun Feng, Wenjing Tang, Yongjun Xu. TCMP-300: A Comprehensive Traditional Chinese Medicinal Plant Dataset for Plant Recognition. Scientific Data. 12(1):1166, 2025. (SCI Q1 IF:6.9)
+[2] **Zhulin An**, Xinqiang Yu, Chu Wang*, Yinlong Zhang, Chunhe Song*. Embodied intelligence: Recent advances and future perspectives. The Innovation Informatics 1:100008, 2025.
 
-[3] Ruiqi Liu, Boyu Diao*, Libo Huang, Zijia An, Hangda Liu, **Zhulin An**, Yongjun Xu. Low-redundancy distillation for continual learning. Pattern Recognition. 167: 111712, 2025.
+[3] Yanling Zhang, Wanhui Sun, Chuanguang Yang*, Libo Huang*, **Zhulin An\***, Weilun Feng, Wenjing Tang, Yongjun Xu. TCMP-300: A Comprehensive Traditional Chinese Medicinal Plant Dataset for Plant Recognition. Scientific Data. 12(1):1166, 2025. (SCI Q1 IF:6.9)
 
-[4]Zhanpeng Guan, Fuwei Zhang, Zhao Zhang*, Fuzhen Zhuang, Fei Wang, **Zhulin An**, Yongjun Xu. AdaE: Knowledge Graph Embedding With Adaptive Embedding Sizes. IEEE Transactions on Knowledge and Data Engineering (TKDE). 37(8):4432-4445, 2025. (SCI Q1 IF:10.4)
+[4] Ruiqi Liu, Boyu Diao*, Libo Huang, Zijia An, Hangda Liu, **Zhulin An**, Yongjun Xu. Low-redundancy distillation for continual learning. Pattern Recognition. 167: 111712, 2025.
 
-[5] Chengqing Yu, Fei Wang*, Zezhi Shao, Tangwen Qian, Zhao Zhang, Wei Wei, **Zhulin An**, Qi Wang, Yongjun Xu. GinAR+: A Robust End-to-End Framework for Multivariate Time Series Forecasting With Missing Values. IEEE Transactions on Knowledge and Data Engineering (TKDE). 37(8):4635-4648, 2025. (SCI Q1 IF:10.4)
+[5]Zhanpeng Guan, Fuwei Zhang, Zhao Zhang*, Fuzhen Zhuang, Fei Wang, **Zhulin An**, Yongjun Xu. AdaE: Knowledge Graph Embedding With Adaptive Embedding Sizes. IEEE Transactions on Knowledge and Data Engineering (TKDE). 37(8):4432-4445, 2025. (SCI Q1 IF:10.4)
 
-[6] Jincai Huang, Yongjun Xu, Qi Wang, et al. Foundation models and intelligent decision-making: Progress, challenges, and perspectives. The innovation. 6(6):100948, 2025. (SCI Q1 IF:25.7)
+[6] Chengqing Yu, Fei Wang*, Zezhi Shao, Tangwen Qian, Zhao Zhang, Wei Wei, **Zhulin An**, Qi Wang, Yongjun Xu. GinAR+: A Robust End-to-End Framework for Multivariate Time Series Forecasting With Missing Values. IEEE Transactions on Knowledge and Data Engineering (TKDE). 37(8):4635-4648, 2025. (SCI Q1 IF:10.4)
 
-[7] Longji Zhu, Yunan Yang, Fei Xu, Xinyu Lu, Mingrui Shuai, **Zhulin An**, et al. Open-set deep learning–enabled single-cell Raman spectroscopy for rapid identification of airborne pathogens in real-world environments. Science Advances. 11(2), 2025. (SCI Q1 IF:11.7)
+[7] Jincai Huang, Yongjun Xu, Qi Wang, et al. Foundation models and intelligent decision-making: Progress, challenges, and perspectives. The innovation. 6(6):100948, 2025. (SCI Q1 IF:25.7)
 
-[8] Wenyu Mi, Jianji Wang, Fuzhen Zhuang, **Zhulin An**, Wei Guo. Open-category referring expression comprehension via multi-modal knowledge transfer. Neurocomputing. 598, 2024. (SCI Q1 IF:5.5)
+[8] Longji Zhu, Yunan Yang, Fei Xu, Xinyu Lu, Mingrui Shuai, **Zhulin An**, et al. Open-set deep learning–enabled single-cell Raman spectroscopy for rapid identification of airborne pathogens in real-world environments. Science Advances. 11(2), 2025. (SCI Q1 IF:11.7)
 
-[9] LiRong Dai, Luqi Gong, **Zhulin An**, Yongjun Xu, Boyu Diao. Sketch-fusion: A gradient compression method with multi-layer fusion for communication-efficient distributed training. Journal of Parallel and Distributed Computing. 185, 2024. (SCI Q1 IF:3.4)
+[9] Wenyu Mi, Jianji Wang, Fuzhen Zhuang, **Zhulin An**, Wei Guo. Open-category referring expression comprehension via multi-modal knowledge transfer. Neurocomputing. 598, 2024. (SCI Q1 IF:5.5)
 
-[10] Huishi Luo, Fuzhen Zhuang*, Ruobing Xie, Hengshu Zhu, Deqing Wang, **Zhulin An**, Yongjun Xu. A survey on causal inference for recommendation. The Innovation. 5(2), 2024. (SCI Q1 IF:32.1)
+[10] LiRong Dai, Luqi Gong, **Zhulin An**, Yongjun Xu, Boyu Diao. Sketch-fusion: A gradient compression method with multi-layer fusion for communication-efficient distributed training. Journal of Parallel and Distributed Computing. 185, 2024. (SCI Q1 IF:3.4)
 
-[11] Chuanguang Yang, **Zhulin An\***, Linhang Cai, and Yongjun Xu. Knowledge Distillation Using Hierarchical Self-Supervision Augmented Distribution. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 35(2), 2024. (CCF-B, SCI Q1 IF:10.4)
+[11] Huishi Luo, Fuzhen Zhuang*, Ruobing Xie, Hengshu Zhu, Deqing Wang, **Zhulin An**, Yongjun Xu. A survey on causal inference for recommendation. The Innovation. 5(2), 2024. (SCI Q1 IF:32.1)
 
-[12] Yanming Chen, Jiahao Xu, **Zhulin An\***, Fuzhen Zhuang. Multi-scale Conditional Reconstruction Generative Adversarial Network, Image and Vision Computing. 141, 2024. (CCF-C, SCI Q3 IF:4.7)
+[12] Chuanguang Yang, **Zhulin An\***, Linhang Cai, and Yongjun Xu. Knowledge Distillation Using Hierarchical Self-Supervision Augmented Distribution. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 35(2), 2024. (CCF-B, SCI Q1 IF:10.4)
 
-[13] Yanming Chen, Gang Wu, Mingrui Shuai, Shubin Lou, Yiwen Zhang, **Zhulin An\***. FPAR: Flter Pruning via Atention and Rank Enhancement for Deep Convolutional Neural Networks Acceleration, International Journal of Machine Learning and Cybernetics, 15, 2024. (SCI Q3 IF:5.6)
+[13] Yanming Chen, Jiahao Xu, **Zhulin An\***, Fuzhen Zhuang. Multi-scale Conditional Reconstruction Generative Adversarial Network, Image and Vision Computing. 141, 2024. (CCF-C, SCI Q3 IF:4.7)
 
-[14] Han Yang, Qiuli Wang, Yue Zhang, **Zhulin An**, Liu Chen, Xiaohong Zhang, and S. Kevin Zhou*. Lung Nodule Segmentation and Uncertain Region Prediction with an Uncertainty-Aware Attention Mechanism. IEEE Transactions on Medical Imaging (TMI), 43(4), 2024. (SCI Q1 IF:6.812)
+[14] Yanming Chen, Gang Wu, Mingrui Shuai, Shubin Lou, Yiwen Zhang, **Zhulin An\***. FPAR: Flter Pruning via Atention and Rank Enhancement for Deep Convolutional Neural Networks Acceleration, International Journal of Machine Learning and Cybernetics, 15, 2024. (SCI Q3 IF:5.6)
 
-[15] Chuanguang Yang, **Zhulin An\***, Helong Zhou, Fuzhen Zhuang, Yongjun Xu, Qian Zhang. Online Knowledge Distillation via Mutual Contrastive Learning for Visual Recognition. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 45(8), 2023. (CCF-A, SCI Q1 IF:24.314) 
+[15] Han Yang, Qiuli Wang, Yue Zhang, **Zhulin An**, Liu Chen, Xiaohong Zhang, and S. Kevin Zhou*. Lung Nodule Segmentation and Uncertain Region Prediction with an Uncertainty-Aware Attention Mechanism. IEEE Transactions on Medical Imaging (TMI), 43(4), 2024. (SCI Q1 IF:6.812)
 
-[16] Yuting Zhang, Ying Sun, Fuzhen Zhuang*, Yongchun Zhu, **Zhulin An\***, Yongjun Xu. Triple Dual Learning for Opinion-Based Explainable Recommendation. ACM Transactions on Information Systems (TOIS), 42(3), 2023. (CCF-A, SCI Q1 IF:5.6)
+[16] Chuanguang Yang, **Zhulin An\***, Helong Zhou, Fuzhen Zhuang, Yongjun Xu, Qian Zhang. Online Knowledge Distillation via Mutual Contrastive Learning for Visual Recognition. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 45(8), 2023. (CCF-A, SCI Q1 IF:24.314) 
 
-[17] Y Xu, X Liu, X Cao, et al. Artificial intelligence: A powerful paradigm for scientific research. The Innovation. 2(4), 2021. 
+[17] Yuting Zhang, Ying Sun, Fuzhen Zhuang*, Yongchun Zhu, **Zhulin An\***, Yongjun Xu. Triple Dual Learning for Opinion-Based Explainable Recommendation. ACM Transactions on Information Systems (TOIS), 42(3), 2023. (CCF-A, SCI Q1 IF:5.6)
 
-[18] Chuanguang Yang, Xinqiang Yu, **Zhulin An**, Yongjun Xu. Categories of Response-Based, Feature-Based, and Relation-Based Knowledge Distillation. Chapter in Springer Book《Advancements in Knowledge Distillation: Towards New Horizons of Intelligent Systems》, 2023.
+[18] Y Xu, X Liu, X Cao, et al. Artificial intelligence: A powerful paradigm for scientific research. The Innovation. 2(4), 2021. 
+
+[19] Chuanguang Yang, Xinqiang Yu, **Zhulin An**, Yongjun Xu. Categories of Response-Based, Feature-Based, and Relation-Based Knowledge Distillation. Chapter in Springer Book《Advancements in Knowledge Distillation: Towards New Horizons of Intelligent Systems》, 2023.
 
 # 📕 Projects
 - *2025.1~2028.12* National Natural Science Foundation of China (NSFC) - General Program. Research on Diffusion Model Training and Inference Optimization.
 
 # 🎖 Honors and Awards
+- *2026.06* Outstanding Reviewer Award for CVPR 2026
 - *2025.06* Outstanding Reviewer Award for CVPR 2025
 - *2023.10* Third Place in OOD-CV: Classification Track (Self-Supervised), A Challenge for Out-of-Distribution Generalization in Computer Vision (OOD-CV), in conjunction with ICCV 2023
 - *2024.9* The Second Place in Cross-Organ Adenocarcinoma Segmentation Task, Cross-Organ and Cross-Scanner Adenocarcinoma Segmentation Challenge, in conjunction with MICCAI 2024
