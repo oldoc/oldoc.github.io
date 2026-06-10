@@ -141,7 +141,7 @@ Serves as principal investigator for multiple national and ministerial projects,
 
 ## [Journal Papers]
 
-[1] Weilun Feng, Chuanguang Yang, Haotong Qin, Yuqi Li, Xiangqi Li, Zhulin An, Libo Huang, Boyu Diao, Fuzhen Zhuang, Michele Magno, Yongjun Xu, Yingli Tian, Tingwen Huang. MPQ-DMv2: Flexible Residual Mixed Precision Quantization for Low-Bit Diffusion Models With Temporal Distillation. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). 2026. (CCF-A)
+[1] Weilun Feng, Chuanguang Yang, Haotong Qin, Yuqi Li, Xiangqi Li, **Zhulin An\***, Libo Huang, Boyu Diao, Fuzhen Zhuang, Michele Magno, Yongjun Xu, Yingli Tian, Tingwen Huang. MPQ-DMv2: Flexible Residual Mixed Precision Quantization for Low-Bit Diffusion Models With Temporal Distillation. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). 2026. (CCF-A)
 
 [2] **Zhulin An**, Xinqiang Yu, Chu Wang*, Yinlong Zhang, Chunhe Song*. Embodied intelligence: Recent advances and future perspectives. The Innovation Informatics 1:100008, 2025.
 
