@@ -51,7 +51,7 @@ Serves as principal investigator for multiple national and ministerial projects,
 
 [1] Yingmei YU, Libo Huang*, Wentao Xu, **Zhulin An\***, Chuanguang Yang, Yongjun Xu. MorphDreamer: Progressive Particle Splitting for Weighted Entropy Regularized Variational Text-to-3D Generation. ACM Multimedia 2026 (ACM MM), 2026. (CCF-A)
 
-[2] Yelin Wang†, Zijia Song†, Shuo Ye, Chuanguang Yang, Miaoyu Wang, Yong Xu, **Zhulin An\***, Yongjun Xu, Zitong Yu*. The 19th European Conference on Computer Vision (ECCV), 2026. (CCF-B)
+[2] Yelin Wang†, Zijia Song†, Shuo Ye, Chuanguang Yang, Miaoyu Wang, Yong Xu, **Zhulin An\***, Yongjun Xu, Zitong Yu*. RSICCLLM: A Multimodal Large Language Model for Remote Sensing Image Change Captioning. The 19th European Conference on Computer Vision (ECCV), 2026. (CCF-B)
 
 [3] Libo Huang, Xiangqi Li, Jiarui Zhao, **Zhulin An\***, Chuanguang Yang, Boyu Diao, Fei Wang, Yan Zeng, Zhifeng Hao, Yongjun Xu. PrePrompt: Predictive prompting for class incremental learning. 32nd SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026. (CCF-A)
 
