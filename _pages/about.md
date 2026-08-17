@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Zhulin An is a full-time, tenure-track Associate Professor (Associate Researcher) at the Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS). He can solely advise Ph.D. and master's students in Computer Science. His research interests include neural network acceleration and continual learning. He has published more than 70 papers in top-tier international AI/CV journals and conferences, with a total of over <strong><span id='total_cit'>6k</span></strong> citations on Google Scholar. [![](https://img.shields.io/badge/GoogleScholar-Zhulin_An-grey?style=flat-square&labelColor=4285F4&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=daBvGcMAAAAJ) &ensp;
+Zhulin An is a full-time, tenure-track Associate Professor (Associate Researcher) at the Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS). He can solely advise Ph.D. and master's students in Computer Science. His research interests include neural network acceleration and continual learning. He has published more than 70 papers in top-tier international AI/CV journals and conferences, with a total of <strong><span id='total_cit'>6k+</span></strong> citations on Google Scholar. [![](https://img.shields.io/badge/GoogleScholar-Zhulin_An-grey?style=flat-square&labelColor=4285F4&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=daBvGcMAAAAJ) &ensp;
 
 Serves as principal investigator for multiple national and ministerial projects, including the National Natural Science Foundation of China (General Program and Young Scientists Fund) and the CAS Science and Technology Innovation Fund, and received the First Prize for Technical Invention by the Chinese Institute of Command and Control in 2025 (third contributor).
 
@@ -157,7 +157,7 @@ Serves as principal investigator for multiple national and ministerial projects,
 
 [4] **Zhulin An**, Xinqiang Yu, Chu Wang*, Yinlong Zhang, Chunhe Song*. Embodied intelligence: Recent advances and future perspectives. The Innovation Informatics 1:100008, 2025.
 
-[5] Yanling Zhang, Wanhui Sun, Chuanguang Yang*, Libo Huang*, **Zhulin An\***, Weilun Feng, Wenjing Tang, Yongjun Xu. TCMP-300: A Comprehensive Traditional Chinese Medicinal Plant Dataset for Plant Recognition. Scientific Data. 12(1):1166, 2025. (SCI Q1 IF:6.9)
+[5] Yanling Zhang, Wanhui Sun, Chuanguang Yang\*, Libo Huang\*, **Zhulin An\***, Weilun Feng, Wenjing Tang, Yongjun Xu. TCMP-300: A Comprehensive Traditional Chinese Medicinal Plant Dataset for Plant Recognition. Scientific Data. 12(1):1166, 2025. (SCI Q1 IF:6.9)
 
 [6] Ruiqi Liu, Boyu Diao*, Libo Huang, Zijia An, Hangda Liu, **Zhulin An**, Yongjun Xu. Low-redundancy distillation for continual learning. Pattern Recognition. 167: 111712, 2025.
 
