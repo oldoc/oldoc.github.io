@@ -155,7 +155,7 @@ Serves as principal investigator for multiple national and ministerial projects,
 
 [3] Yongjun Xu#, Zezhi Shao#, Xin Liu#, Yuquan Li#, **Zhulin An#**, et al. AI for science: Progress, challenges, and perspectives. The Innovation 7:101530, 2026.
 
-[4] **Zhulin An**, Xinqiang Yu, Chu Wang*, Yinlong Zhang, Chunhe Song*. Embodied intelligence: Recent advances and future perspectives. The Innovation Informatics 1:100008, 2025.
+[4] **Zhulin An**, Xinqiang Yu, Chu Wang\*, Yinlong Zhang, Chunhe Song\*. Embodied intelligence: Recent advances and future perspectives. The Innovation Informatics 1:100008, 2025.
 
 [5] Yanling Zhang, Wanhui Sun, Chuanguang Yang\*, Libo Huang\*, **Zhulin An\***, Weilun Feng, Wenjing Tang, Yongjun Xu. TCMP-300: A Comprehensive Traditional Chinese Medicinal Plant Dataset for Plant Recognition. Scientific Data. 12(1):1166, 2025. (SCI Q1 IF:6.9)
 
